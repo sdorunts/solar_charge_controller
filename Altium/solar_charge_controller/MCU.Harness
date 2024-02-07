@@ -1,0 +1,3 @@
+I2C=WP,SCL,SDA
+SPI=CS,RST (Reset),DC (Data/Command),SCK,MOSI
+USB-to-UART=EN0,EN1,RX,TX
